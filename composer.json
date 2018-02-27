@@ -1,0 +1,8 @@
+{
+    "name": "Winrol/Taxi",
+    "autoload": {
+      "psr-4": {
+        "Taxi\\": "./"
+      }
+    }
+}
